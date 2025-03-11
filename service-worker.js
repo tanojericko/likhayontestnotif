@@ -1,11 +1,11 @@
 const CACHE_NAME = 'srtf-simulator-v1';
 const ASSETS = [
-    '/likhayontestnotif/',
-    '/likhayontestnotif/index.html',
-    '/likhayontestnotif/bootstrap.min.css',
-    '/likhayontestnotif/styles.css',
-    '/likhayontestnotif/script.js',
-    'likhayontestnotif/manifest.json'
+    '/',
+    '/index.html',
+    '/bootstrap.min.css',
+    '/styles.css',
+    '/script.js',
+    '/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
