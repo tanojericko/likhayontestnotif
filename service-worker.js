@@ -22,4 +22,4 @@ self.addEventListener('fetch', (event) => {
     );
 });
 
-importScripts("https://cdn.pushalert.co/sw-79914.js");
+
