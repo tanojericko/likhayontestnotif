@@ -1,6 +1,6 @@
 {
-    "name": "SRTF CPU Scheduling Simulator",
-    "short_name": "SRTF Simulator",
+    "name": "God",
+    "short_name": "God",
     "description": "A simulator for Shortest Remaining Time First (SRTF) CPU scheduling algorithm.",
     "start_url": "/", 
     "display": "standalone",
